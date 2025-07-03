@@ -1,0 +1,4 @@
+build/
+build/out_pnr.json
+build/out.bit
+build/out.json
