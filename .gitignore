@@ -1,4 +1,8 @@
 build/
+build
+out_pnr.json
+out.json
+out.config
 build/out_pnr.json
 build/out.bit
 build/out.json
